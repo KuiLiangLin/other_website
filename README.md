@@ -14,7 +14,7 @@ http://www.cnblogs.com/oomusou/archive/2010/09/05/verilog_mux2.html
 
 http://flyhighla.blogspot.com/2014/07/verilog-vhdl-coding-style.html
 
-http://www.cnblogs.com/logic3/p/5229690.html
+https://vlsiuniverse.blogspot.com/p/interview-questions.html?m=0http://www.cnblogs.com/logic3/p/5229690.html
 
 http://codebeauty.blogspot.com/2011/08/know-static-timing-analysis.html
 
@@ -47,7 +47,7 @@ http://cluelogic.com/2011/07/uvm-tutorial-for-candy-lovers-overview/
 https://freevideolectures.com/130-nptel-iit-online-courses/
 
 
-
+https://vlsiuniverse.blogspot.com/p/interview-questions.html?m=0
 
 
 
